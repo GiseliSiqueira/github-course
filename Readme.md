@@ -1,3 +1,3 @@
 GitHub Course
 
-Teste dos estados do git.
+Repositório simples para conteúdos de aulas do curso de git.
